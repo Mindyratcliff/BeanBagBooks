@@ -1,0 +1,36 @@
+html {
+    background-color: #f7f9fb;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2 {
+    margin-right: auto;
+    margin-left: auto;
+}
+#navbar {
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #edeae5;
+    text-align: center;
+    
+}
+
+ul {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#faq {
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    width: 1000px;
+}
