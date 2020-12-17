@@ -3,12 +3,23 @@ html {
 }
 body {
     font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+#storename {
+    position: fixed;
 }
 
 h1 {
-    margin-right: auto;
-    margin-left: auto;
+    margin: 0 auto;
+    max-width: 1040px;
+    position: relative;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    
 }
+
 
 h2 {
     margin-right: auto;
@@ -34,3 +45,16 @@ ul {
     text-align: center;
     width: 1000px;
 }
+
+a {
+    color: #5085A5;
+}
+
+a:hover {
+    background-color: #8FC1E3;
+    opacity: 0.5;
+    color: #f7f9fb;
+    font-weight: bolder;
+
+}
+
