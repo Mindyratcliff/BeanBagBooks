@@ -131,6 +131,13 @@ iframe{
     float:right;
 }
 
+#jody {
+    width: 500px;
+    height: 600px;
+    border: 2px black;
+    
+}
+
 #eventPara{
     margin-right:auto;
     margin-left:auto;
