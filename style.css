@@ -4,6 +4,7 @@ html {
     
 }
 body {
+    background-color: #f7f9fb;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     height:100%;
@@ -131,11 +132,25 @@ iframe{
     float:right;
 }
 
-#jody {
+#bookfair {
     width: 500px;
-    height: 600px;
+    height: 500px;
     border: 2px black;
+
+}
+
+#otheronline {
+    padding-top: 20px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+
+#otherdesc {
     
+    margin-left:auto;
+    margin-right: auto;
+
 }
 
 #eventPara{
